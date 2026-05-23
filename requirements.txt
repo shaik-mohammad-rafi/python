@@ -1,0 +1,22 @@
+# --- Core Data Manipulation ---
+pandas            # Data structures and analysis tool
+numpy             # Numerical computing and array operations
+
+# --- Data Visualization ---
+matplotlib        # Basic plotting library
+seaborn           # Advanced statistical data visualization
+plotly            # Interactive plots and dashboards
+
+# --- Statistical Analysis & Modeling ---
+scipy             # Scientific and technical computing
+statsmodels       # Statistical models, hypothesis tests, and regressions
+scikit-learn      # Basic machine learning algorithms (clustering, linear regressions)
+
+# --- Database & API Connections ---
+sqlalchemy        # SQL toolkit and Object Relational Mapper
+psycopg2-binary   # PostgreSQL database adapter (use mysql-connector-python for MySQL)
+requests          # Making HTTP requests to fetch API data
+
+# --- Environment & Notebook Comfort ---
+openpyxl          # Needed for reading/writing Excel files (.xlsx) in Pandas
+ipykernel         # Allows running Python inside VS Code Jupyter Notebooks
