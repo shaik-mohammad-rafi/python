@@ -1,0 +1,71 @@
+session 1:
+
+
+python for data analytics
+
+libraries used: numpy , pandas , matplotlib 
+
+python for deep machine learning :
+
+libraries used : tensorflow , pytorch 
+
+why python: open source,flexible,integrated,scalability,rich in libraries
+
+variable : name of memory , memory locator , values are stored
+
+types of variables : numeric, text , float (decimal), Boolean (true/false)
+ 
+rules of python : 1.case sensitive
+                  2.space sensitive
+rules for variables : 1. variable is case sensitive [a=10, diff from A =10]
+2.variable should start with underscore or alphabet
+3.number cannot be a variable
+ 1 ="rrafi" …….wrong format
+4.space sensitive also
+
+Token:
+any logical piece of code when broken down every part of it is called token
+if age > 18 
+if- token
+age - token
+> - token 
+18 - token
+tokens are of 4 types 
+1 keyword: inbuilt words of programming lang eg:print,for,if,else,input etc
+2 identifiers: something that we create by us to help us identifying things eg:variable , functions 
+3 literals:values that we store are called literals 
+example: a = 10 a is identifier , 10 is literal
+4 operators : something that either tells what to do 
+-arthimetic operators -> + ,-, * ,/,% ,**
+
+-assignment operator -> = 
+
+-comparision operator -> > ,< ,== ,>= ,<= ,!= 
+-logical operator -> that are used to build logics . to compare multiple conditions 
+*combine multiple conditions
+ age>21 & gender='M' -> allowed to marriage
+->and -> true -> when all parts of it are true
+->or -> when one or more parts is true
+->not -> if true it gives false.. if false it gives true 
+
+Data types classification
+
+1.on the basis of what type of data it stores
+2.variable once created can be modified or changed   
+
+->mutable - variables once created can be modified -set , dictionary , list
+
+->immutable - variables once created cannot be modified - integer , float , string , Boolean , tuple
+
+
+
+session 2:
+
+
+Data types:
+mutable .. value once declared and in making changes in the value of same variable it will be reflected at same memory location
+mutable->list,dictionary,sets
+immutable->numeric,booealn,string,tuple
+
+LIST:
+a datatype that is mutable and can store multiple values under same variable name used in []
